@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int y1,y2;
+	printf("y1=%d\t y2=%d\n",y1=5+(-24)*2%3,y2=250/4*10/2/3+8);
+    getch();
+    return 0;
+}
